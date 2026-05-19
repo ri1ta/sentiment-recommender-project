@@ -1,6 +1,6 @@
 # Sentiment-Aware Review-Based Recommendation
 
-This repository contains the experimental code and result files for my bachelor thesis:
+This repository contains the experimental code and result files for the project:
 
 **A Recommendation System Based on Sentiment Analysis of User Reviews**
 
